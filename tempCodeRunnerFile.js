@@ -1,0 +1,1 @@
+console.log(user1[1].Marks[0]);
